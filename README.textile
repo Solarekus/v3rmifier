@@ -1,0 +1,3 @@
+h1. V3rmifier
+
+A Chrome extension designed to notify users about new posts on V3rmillion.
