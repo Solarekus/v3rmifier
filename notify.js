@@ -4,7 +4,7 @@ function notify(msg) {
 	options["title"] = "V3rmillion";
 	options["message"] = msg;
 	chrome.notifications.create(options, function(id) {
-		setTimeout(chrome.notifications.clear(id), 5000);
+		setTimeout(chrome.notifications.clear(id), 10000);
 	});
 }
 

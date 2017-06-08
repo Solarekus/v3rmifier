@@ -2,7 +2,6 @@
 	"manifest_version": 2,
 	"name": "V3rmifier",
 	"version": "1.0.0",
-	"default_locale": "en",
 	"description": "An extension designed to notify the user about new threads on V3rmillion's lounge.",
 	"browser_action": {
 		"default_icon": "icon.png",
